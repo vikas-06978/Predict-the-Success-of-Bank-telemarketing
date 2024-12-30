@@ -1,4 +1,6 @@
 # Predict-the-Success-of-Bank-telemarketing
+![GitHub license](https://img.shields.io/github/license/vikas-06978/Predict-the-Success-of-Bank-telemarketing)
+
 
 ## Project Overview
 This project aims to predict the success of bank telemarketing campaigns by using machine learning techniques. The goal is to classify whether a client will subscribe to a term deposit based on various features related to the marketing campaign, client attributes, and previous campaign interactions.
@@ -100,3 +102,10 @@ The dataset used for this project is related to direct marketing campaigns of a 
 
 ## Results
 - Details of model performance and key findings will be documented here after training.
+
+## Acknowledgments
+- Developed by [Vikas](https://github.com/vikas-06978)
+- Dataset: [Kaggle - Bank Marketing Campaign Data](https://www.kaggle.com/)
+
+If you use this project, please provide proper credit by linking to this repository.
+
