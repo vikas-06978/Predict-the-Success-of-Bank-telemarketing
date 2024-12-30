@@ -93,10 +93,8 @@ The dataset used for this project is related to direct marketing campaigns of a 
 
 ## How to Use
 1. Clone this repository:
-2. Install required dependencies:
-
-   pip install -r requirements.txt
-
+    ```https://github.com/vikas-06978/Predict-the-Success-of-Bank-telemarketing.git```
+2. Install required scikit-learn libraries
 3. Run the Jupyter notebook or Python scripts to preprocess the data and train models.
 4. Generate predictions and evaluate results.
 
